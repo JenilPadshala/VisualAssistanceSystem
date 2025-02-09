@@ -1,0 +1,15 @@
+bed
+bike
+bin
+bus
+car
+cat
+chair
+dog
+door
+manhole
+person
+puddle
+stair
+table
+tree
